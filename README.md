@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JamesOHogan
 - 👀 I’m interested in Python
 - 🌱 I’m currently learning AI in Global Treasury
-- 💞️ I’m looking to collaborate on Reporting 
+- 💞️ I’m looking to collaborate on Reporting, SQL, Tableau and Snowflake
 
 
 <!---
